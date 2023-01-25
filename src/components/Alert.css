@@ -1,0 +1,21 @@
+.alert{
+    margin: 10px 0;
+}
+.alert .error, .alert .message{
+    padding: 10px;
+    border: 1px solid #aaa;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+.alert .error{
+    background-color: darksalmon;
+}
+.alert .message{
+    background-color: darkseagreen;
+}
+.alert .dismiss{
+    padding: 0 10px;
+    cursor: pointer;
+}

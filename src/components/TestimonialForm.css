@@ -1,0 +1,13 @@
+.title{
+ font-size: 2rem;
+    font-weight: bold;
+}
+.testimonial-form input, .testimonial-form textarea{
+    width: 100%;
+    margin-top: 25px;
+    padding: 5px;
+}
+.testimonial-form button{
+    margin-top: 25px;
+    padding: 5px 20px;
+}

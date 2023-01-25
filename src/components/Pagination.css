@@ -1,0 +1,22 @@
+.pagination{
+    display: flex;
+    margin-top: 15px;
+}
+.pagination .page-item{
+    margin: 0 3px;
+    padding: 3px;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    color: inherit;
+    min-width: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+.pagination .page-item.active {
+    border-color: #555;
+}
+.pagination .page-item.disabled {
+    border-color: #eee;
+    color: #eee;
+    cursor: auto;
+}

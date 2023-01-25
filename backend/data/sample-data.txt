@@ -1,0 +1,87 @@
+Name: Esther Brown
+Age 37
+Location: Toronto, NY
+Comments: 
+We were looking for an affordable marketing company and Silver Tongue Media more than delivered. 
+They manage our blog and social media accounts and produce our brochures. We saw an immediate 
+increase in our social media presence and our followers doubled in a month and our garage business 
+has increased 50% in two months!
+imageUrl: https://curious-diva.sfo2.cdn.digitaloceanspaces.com/codewise/esther-brown.jpg
+
+Name: Marus A Klein 
+Age: 34
+Location: San Francisco, CA
+Comments:
+They took the time to understand who we are as a company and gave us a few amazing marketing plans to 
+choose from. We wholeheartedly recommend Silver Tongue to everyone we know.
+imageUrl: https://curious-diva.sfo2.cdn.digitaloceanspaces.com/codewise/marcus-klein.jpg
+
+Name: Thomas R Mumford 
+Age: 42
+Location: Philadelphia, PA
+Comments:
+If you are looking for a rare book, you need to check out Parchment Bound Books on Main Street. 
+I was looking for a first edition for my dad's birthday and I had almost given up. I went in just 
+to see what they had and they were the friendliest people!
+imageUrl: https://curious-diva.sfo2.cdn.digitaloceanspaces.com/codewise/thomas-mumford.jpg
+
+Name: Anna B Phillips 
+Age: 26
+Location: Seattle, WA
+Comments:
+They helped me find the perfect book for him and even offered a layaway. They have a huge selection of new, used and 
+collectible books and their cappuccinos are to die for.
+imageUrl: https://curious-diva.sfo2.cdn.digitaloceanspaces.com/codewise/anna-philips.jpg
+
+Name: Garrett A Smith
+Age: 28
+Location: Concord, VA
+Comments:
+My mom really enjoyed their brand of vegan cosmetics. She liked that it's brand owned and operated by a woman of color! 
+They sent her three lip colors and it's everything she ever wanted in a red lip. It went on really smoothly!
+imageUrl: https://curious-diva.sfo2.cdn.digitaloceanspaces.com/codewise/garrett-smith.jpg
+
+Name: Dana Moore
+Age 40
+Location: Dallas, TX
+Comments:
+Case Study Buddy did everything – with almost no time or effort for me! The best part was that I could completely trust their team 
+to represent our company professionally with our clients
+imageUrl: https://curious-diva.sfo2.cdn.digitaloceanspaces.com/codewise/dana-moore.jpg
+
+Name: Aleese James
+Age: 63
+Location:Las Vegas, NV
+Comments:
+When it comes to digital marketing there are loads of commentators that talk a good game, but Sonja and Sharon help you make it happen.
+They have enabled me, coached me and given me the confidence to share Wealth Horizon’s story widely
+imageUrl: https://curious-diva.sfo2.cdn.digitaloceanspaces.com/codewise/aleese-james.jpg
+
+Namer: Kristine Woods
+Age: 48
+Location: Portland, OR
+Comments:
+As a sales gamification company, we were skeptical to work with a consultant to optimize our sales emails, but Salesfolk was highly recommended 
+by many other Y-Combinator startups we knew.
+imageUrl: https://curious-diva.sfo2.cdn.digitaloceanspaces.com/codewise/kristine-woods.jpg
+
+Name: Patricia Scotts
+Age: 29
+Location: Providence, MA
+Comments:
+This format gave me the confidence to implement new techniques on my blog immediately, in contrast to my past failed attempts. I didn’t just 
+learn “how” to write – “what” and “why” also became much clearer
+imageUrl: https://curious-diva.sfo2.cdn.digitaloceanspaces.com/codewise/patricia-scotts.jpg
+
+Name: Marsha M Clark	
+Age: 30
+Location: Miami, FL
+Comments:
+Not only was the course both fun and challenging but Henneke’s direct feedback for improving my writing was invaluable. She has a calm and 
+logical method of teaching that truly connected and inspired me. I can’t speak highly enough of this course
+imageUrl: https://curious-diva.sfo2.cdn.digitaloceanspaces.com/codewise/marsha-clark.jpg
+
+
+
+
+

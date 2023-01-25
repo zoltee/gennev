@@ -1,0 +1,32 @@
+.testimonial-list.display-grid{
+    padding: 20px;
+    display: grid;
+    gap: 10px;
+    grid-template-columns:
+    repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.display-grid .item{
+    border: 1px solid #ccc;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.display-grid .item .photo{
+    height: 100px;
+    border-bottom: 1px solid #999;
+    text-align: center;
+    background-color: #ccc;
+}
+.display-grid .item .photo img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.display-grid .item .details{
+    padding: 10px;
+    font-size: 0.8rem;
+}
+.display-grid .item hr{
+    border: none;
+    border-bottom: 1px solid #ccc;
+}

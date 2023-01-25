@@ -1,0 +1,18 @@
+RewriteEngine on
+Header Set Access-Control-Allow-Origin *
+Header Set Access-Control-Allow-Headers *
+
+		#skip processing if there is nothing specified after domain name
+			RewriteRule ^$ index.php [L]
+		#skip processing if the file exists
+			RewriteCond %{REQUEST_FILENAME} -f
+			RewriteRule ^(.+)$ $1 [L]
+		#skip processing if it is a file in the root
+			RewriteCond %{REQUEST_FILENAME} -f
+			RewriteRule ^([^/]+)$ $1 [L]
+
+		#RewriteRule ^([A-Z]{1}[a-z]+-[a-zA-Z0-9_]{3,}.*)$ index.php?action=$1 [QSA,L]
+    	RewriteRule ^([a-z]+)$ index.php?action=$1 [QSA,L]
+    	RewriteRule ^([a-z]+)/([0-9a-f][32]])$ index.php?action=$1&id=$2 [QSA,L]
+		RewriteRule ^.*$ - [R=404]
+

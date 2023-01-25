@@ -1,0 +1,20 @@
+.list-header{
+    background-color: #eee;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    display: flex;
+}
+.list-header button {
+    padding: 5px 20px;
+    margin-right: 5px;
+    border: 1px solid #ccc;
+}
+
+.list-header .search {
+    margin-left: auto;
+    padding: 5px 10px;
+}
+
+.list-header button.selected {
+    background-color: #fff;
+}
